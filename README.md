@@ -147,7 +147,8 @@ As of my last update in January 2022, I don't have specific information about an
 
 
 ## OUTPUT
-![Screenshot 2024-04-23 094129](https://github.com/vishwa2005vasu/NearMe/assets/135954202/ff9be325-270c-437f-b520-ab4639a7e723)
+![OUTPUT EX4](https://github.com/vishwa2005vasu/NearMe/assets/135954202/ff1fe7bc-cacc-457e-9544-40590031bc61)
+
 ![Screenshot 2024-04-23 143448](https://github.com/vishwa2005vasu/NearMe/assets/135954202/b096b846-9acc-414e-bd8f-0a00da1c2c6d)
 ![Screenshot 2024-04-23 143511](https://github.com/vishwa2005vasu/NearMe/assets/135954202/b9c0a0f2-5a9a-477a-9660-ccc3d28e67a5)
 ![Screenshot 2024-04-23 143533](https://github.com/vishwa2005vasu/NearMe/assets/135954202/45e83096-f2b9-4b5b-8024-888f299f30fc)
